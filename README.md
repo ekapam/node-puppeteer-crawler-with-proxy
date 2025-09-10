@@ -22,7 +22,7 @@ It supports **path exclusions** and **optional proxy usage** configured via a `.
 Clone the repository and navigate to the project folder:
 
 ```bash
-git clone https://github.com/youruser/crawler-proxy.git
+git clone https://github.com/ekapam/node-puppeteer-crawler-with-proxy
 cd crawler-proxy
 ```
 
